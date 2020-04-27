@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-func main() {
+func abc144d() {
 	var a, b, x float64
 	fmt.Scanf("%g %g %g", &a, &b, &x)
 
